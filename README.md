@@ -1,8 +1,8 @@
 -✨je suis @himatondiKadri
 -😺je suis intéressé des nouvelles technologies 
 -🌱 je lisais couramment des cours sur l'évolution de la technologie 
-- 💞️ je regarde souvent ces évolutions pour pouvoir me lancer à améliorer mes compétences et participer à cette dernière 
-- 📫 comment me chercher 
+- 💞️ je regarde souvent les évolutions de la technologie pour pouvoir  améliorer mes compétences et participer à cette dernière 
+- 📫 comment me trouver dans ce domaine pour gagner ma vie
 - 😄 
 
 <!---
