@@ -1,7 +1,6 @@
 -✨je suis @himatondiKadri
 -😺je suis intéressé, passionné des nouvelles technologies 
--🌱 je code sur c,htlm et css
-- 💞️ je regarde souvent les évolutions de la technologie pour pouvoir  améliorer mes compétences et participer à cette dernière 
+-🌱 je code sur c,htlm et CSS
 - 📫 vous pouvez me joindre sur 87637555
 - 😄 
 
